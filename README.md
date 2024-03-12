@@ -1,0 +1,2 @@
+# EnergySystemsCoSim
+A package for co-simulation of Energy Systems. It is part of Power, Energy, Network and Optimisation (PENO) Framework supported by DSI/NRF SARChi chair on PENO initiative at  University of South Africa.
